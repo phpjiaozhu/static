@@ -1,0 +1,26 @@
+{
+  // 这三项让你的文件能正常被索引到
+  // 项目名要与文件夹名一致
+  "name": "WXH5",
+  "filename": "WXH5.js",
+  "version": "1.0",
+
+  // 其他
+  "description": "微信H5开发的前端插件",
+  "homepage": "",
+  "keywords": ["WXH5"],
+  "maintainers": [
+    {
+      "name": "教主",
+      "web": "",
+      "mail": ""
+    }
+  ],
+  "repositories": [
+    {
+      // svn 等
+      "type": "git",
+      "url": "https://github.com/staticfile/static"
+    }
+  ]
+}
